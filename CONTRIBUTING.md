@@ -1,1 +1,1 @@
-Please refer to https://github.com/dmZhan/contribute
+Please refer to <https://github.com/dmZhan/contribute>
